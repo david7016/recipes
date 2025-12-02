@@ -1,0 +1,17 @@
+body {
+    background-color: bisque;
+    text-align: justify;
+}
+
+.about {
+font-style: italic;
+font-size: 50px;
+}
+
+.text{
+    font-size: 22px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.pit{
+    text-align: center;
+}

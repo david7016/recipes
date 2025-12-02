@@ -1,0 +1,22 @@
+body {
+    background-color: bisque;
+}
+
+.rit {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.ritt {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.rittt {
+    text-align: justify;
+    font-size: 22px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.pit {
+    text-align: center;
+}
